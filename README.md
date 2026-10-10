@@ -1,21 +1,17 @@
-<!-- ============================================================
-  GANTI semua "NoName-LastMan" dengan NoName-LastMan GitHub kamu
-  GANTI "Nama Kamu" dan info lain sesuai profilmu
-============================================================ -->
+<!-- Username GitHub: NoName-LastMan | Isi bagian [dalam kurung siku] sesuai profilmu -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Halo,%20Saya%20Humamun%20Najah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Halo,%20Saya%20Humamun%20Najah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 
 <a href="https://github.com/NoName-LastMan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=700&lines=Membangun+produk+digital+yang+berdampak+%F0%9F%9A%80;Suka+ngoding%2C+kopi%2C+dan+tantangan+baru+%E2%98%95;Selalu+belajar%2C+selalu+berkembang+%F0%9F%93%9A;Mari+berkolaborasi!+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Membangun+produk+digital+yang+berdampak+%F0%9F%9A%80;Suka+ngoding%2C+kopi%2C+dan+tantangan+baru+%E2%98%95;Selalu+belajar%2C+selalu+berkembang+%F0%9F%93%9A;Mari+berkolaborasi!+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?NoName-LastMan=NoName-LastMan&label=Profile%20Views&color=7B2FF7&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=NoName-LastMan&label=Profile%20Views&color=7B2FF7&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/NoName-LastMan?label=Followers&style=for-the-badge&logo=github&color=00C9FF&labelColor=0f0c29" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/NoName-LastMan?label=Total%20Stars&style=for-the-badge&logo=github&color=F7B500&labelColor=0f0c29" alt="Stars"/>
 
 </div>
 
@@ -25,7 +21,7 @@
 
 ```js
 const saya = {
-  nama: "Nama Kamu",
+  nama: "Humamun Najah",
   lokasi: "Semarang, Indonesia 🇮🇩",
   peran: ["Full Stack Developer", "Open Source Contributor"],
   sedangDipelajari: ["Rust", "System Design", "AI/ML"],
@@ -36,9 +32,21 @@ const saya = {
 ```
 
 - 🔭 Sedang mengerjakan **[nama proyek]**
-- 🌱 Sedang belajar **[teknologi baru]**
+- 🌱 Sedang belajar **Rust, System Design, AI/ML**
 - 💬 Tanya saya soal **JavaScript, Python, dan Web Development**
-- ⚡ Fun fact: **[isi fun fact kamu]**
+
+---
+
+## 🧮 Total Kode yang Sudah Saya Tulis
+
+<div align="center">
+
+<!-- Dibuat otomatis oleh GitHub Actions (lihat .github/workflows/code-stats.yml) -->
+<img src="./assets/code-stats.svg" alt="Total baris kode dan bahasa yang saya pakai" width="100%"/>
+
+<sub>Dihitung dari semua repo milik sendiri (termasuk private, tanpa fork), kode aktual tanpa baris kosong & komentar. Diperbarui otomatis tiap hari.</sub>
+
+</div>
 
 ---
 
@@ -70,8 +78,8 @@ const saya = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?NoName-LastMan=NoName-LastMan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?NoName-LastMan=NoName-LastMan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0f0c29" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NoName-LastMan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0f0c29" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-LastMan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0f0c29" alt="Top Languages"/>
 
 <br/>
 
@@ -85,7 +93,7 @@ const saya = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?NoName-LastMan=NoName-LastMan&bg_color=0f0c29&color=00F7FF&line=7B2FF7&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoName-LastMan&bg_color=0f0c29&color=00F7FF&line=7B2FF7&point=FFFFFF&area=true&area_color=7B2FF7&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -95,7 +103,7 @@ const saya = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?NoName-LastMan=NoName-LastMan&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NoName-LastMan&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -103,28 +111,29 @@ const saya = {
 
 ## 🚀 Proyek Unggulan
 
+<!-- Ganti PROJECT-1..4 dengan nama repo aslimu -->
 <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/NoName-LastMan/PROJECT-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?NoName-LastMan=NoName-LastMan&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 1"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoName-LastMan&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 1"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/NoName-LastMan/PROJECT-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?NoName-LastMan=NoName-LastMan&repo=PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 2"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoName-LastMan&repo=PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 2"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/NoName-LastMan/PROJECT-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?NoName-LastMan=NoName-LastMan&repo=PROJECT-3&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoName-LastMan&repo=PROJECT-3&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 3"/>
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/NoName-LastMan/PROJECT-4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?NoName-LastMan=NoName-LastMan&repo=PROJECT-4&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 4"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoName-LastMan&repo=PROJECT-4&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Project 4"/>
       </a>
     </td>
   </tr>
@@ -136,17 +145,17 @@ const saya = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/NoName-LastMan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/NoName-LastMan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://twitter.com/NoName-LastMan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://youtube.com/@NoName-LastMan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://namakamu.dev"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/NoName-LastMan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:email@kamu.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://instagram.com/NoName-LastMan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/NoName-LastMan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://youtube.com/@NoName-LastMan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://namakamu.dev"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
 > *"Kode yang baik itu seperti lelucon yang baik, tidak perlu dijelaskan."* 😄
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
