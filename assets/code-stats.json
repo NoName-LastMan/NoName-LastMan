@@ -1,0 +1,87 @@
+{
+  "total_lines": 37509,
+  "files": 588,
+  "repos": 14,
+  "languages": [
+    {
+      "name": "PHP",
+      "lines": 10651,
+      "files": 255
+    },
+    {
+      "name": "JSX",
+      "lines": 9660,
+      "files": 90
+    },
+    {
+      "name": "Vuejs Component",
+      "lines": 6278,
+      "files": 21
+    },
+    {
+      "name": "Java",
+      "lines": 4620,
+      "files": 104
+    },
+    {
+      "name": "Blade",
+      "lines": 1111,
+      "files": 29
+    },
+    {
+      "name": "CSS",
+      "lines": 1061,
+      "files": 10
+    },
+    {
+      "name": "JavaScript",
+      "lines": 1015,
+      "files": 32
+    },
+    {
+      "name": "Bourne Shell",
+      "lines": 844,
+      "files": 4
+    },
+    {
+      "name": "HTML",
+      "lines": 728,
+      "files": 8
+    },
+    {
+      "name": "DOS Batch",
+      "lines": 660,
+      "files": 4
+    },
+    {
+      "name": "TypeScript",
+      "lines": 316,
+      "files": 10
+    },
+    {
+      "name": "Maven",
+      "lines": 295,
+      "files": 4
+    },
+    {
+      "name": "SQL",
+      "lines": 124,
+      "files": 2
+    },
+    {
+      "name": "GLSL",
+      "lines": 61,
+      "files": 3
+    },
+    {
+      "name": "Properties",
+      "lines": 43,
+      "files": 9
+    },
+    {
+      "name": "INI",
+      "lines": 42,
+      "files": 3
+    }
+  ]
+}
