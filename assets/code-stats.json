@@ -1,22 +1,32 @@
 {
-  "total_lines": 38536,
-  "files": 594,
+  "total_lines": 568755,
+  "files": 4253,
   "repos": 14,
   "languages": [
+    {
+      "name": "JavaScript",
+      "lines": 450678,
+      "files": 3400
+    },
+    {
+      "name": "TypeScript",
+      "lines": 73536,
+      "files": 231
+    },
+    {
+      "name": "JSX",
+      "lines": 13610,
+      "files": 124
+    },
     {
       "name": "PHP",
       "lines": 11020,
       "files": 260
     },
     {
-      "name": "JSX",
-      "lines": 10317,
-      "files": 91
-    },
-    {
-      "name": "Vuejs Component",
-      "lines": 6278,
-      "files": 21
+      "name": "HTML",
+      "lines": 8872,
+      "files": 22
     },
     {
       "name": "Java",
@@ -24,44 +34,34 @@
       "files": 104
     },
     {
+      "name": "CSS",
+      "lines": 2576,
+      "files": 15
+    },
+    {
       "name": "Blade",
       "lines": 1111,
       "files": 29
     },
     {
-      "name": "CSS",
-      "lines": 1061,
-      "files": 10
-    },
-    {
-      "name": "JavaScript",
-      "lines": 1016,
-      "files": 32
-    },
-    {
       "name": "Bourne Shell",
-      "lines": 844,
-      "files": 4
-    },
-    {
-      "name": "HTML",
-      "lines": 728,
-      "files": 8
+      "lines": 1026,
+      "files": 17
     },
     {
       "name": "DOS Batch",
-      "lines": 660,
-      "files": 4
-    },
-    {
-      "name": "TypeScript",
-      "lines": 316,
-      "files": 10
+      "lines": 855,
+      "files": 17
     },
     {
       "name": "Maven",
       "lines": 295,
       "files": 4
+    },
+    {
+      "name": "PowerShell",
+      "lines": 286,
+      "files": 13
     },
     {
       "name": "SQL",
