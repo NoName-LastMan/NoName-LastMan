@@ -83,10 +83,14 @@ def count_repo(full_name, workdir):
         print(f"  ! gagal clone {full_name} (mungkin kosong)", file=sys.stderr)
         return {}
     out = subprocess.run(
-        ["cloc", "--vcs=git", "--json", "--quiet",
-         r"--not-match-f=\.min\.(js|css)$", "."],
-        cwd=dest, capture_output=True, text=True,
-    )
+    [
+        "cloc", "--vcs=git", "--json", "--quiet",
+        r"--not-match-f=\.min\.(js|css)$",
+        "--exclude-dir=graphify-out,graphify,.graphify,dist,build,node_modules,vendor",
+        "."
+    ],
+    cwd=dest, capture_output=True, text=True,
+)
     shutil.rmtree(dest, ignore_errors=True)
     if not out.stdout.strip():
         return {}
