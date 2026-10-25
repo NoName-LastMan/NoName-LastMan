@@ -1,16 +1,16 @@
 {
-  "total_lines": 45710,
-  "files": 670,
+  "total_lines": 47696,
+  "files": 675,
   "repos": 14,
   "languages": [
     {
       "name": "JSX",
-      "lines": 19836,
-      "files": 152
+      "lines": 21337,
+      "files": 156
     },
     {
       "name": "PHP",
-      "lines": 13289,
+      "lines": 13341,
       "files": 274
     },
     {
@@ -20,8 +20,8 @@
     },
     {
       "name": "JavaScript",
-      "lines": 2107,
-      "files": 46
+      "lines": 2534,
+      "files": 47
     },
     {
       "name": "CSS",
@@ -45,7 +45,7 @@
     },
     {
       "name": "DOS Batch",
-      "lines": 696,
+      "lines": 699,
       "files": 5
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "name": "PowerShell",
-      "lines": 33,
+      "lines": 36,
       "files": 1
     }
   ]
