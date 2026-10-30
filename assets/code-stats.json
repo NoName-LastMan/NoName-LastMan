@@ -1,17 +1,17 @@
 {
-  "total_lines": 49609,
-  "files": 688,
+  "total_lines": 50042,
+  "files": 693,
   "repos": 14,
   "languages": [
     {
       "name": "JSX",
-      "lines": 21701,
+      "lines": 21726,
       "files": 158
     },
     {
       "name": "PHP",
-      "lines": 14678,
-      "files": 281
+      "lines": 15045,
+      "files": 284
     },
     {
       "name": "Java",
@@ -45,8 +45,8 @@
     },
     {
       "name": "DOS Batch",
-      "lines": 698,
-      "files": 5
+      "lines": 707,
+      "files": 6
     },
     {
       "name": "TypeScript",
@@ -60,12 +60,17 @@
     },
     {
       "name": "Python",
-      "lines": 266,
+      "lines": 268,
       "files": 4
     },
     {
       "name": "SQL",
       "lines": 124,
+      "files": 2
+    },
+    {
+      "name": "PowerShell",
+      "lines": 65,
       "files": 2
     },
     {
@@ -87,11 +92,6 @@
       "name": "INI",
       "lines": 42,
       "files": 3
-    },
-    {
-      "name": "PowerShell",
-      "lines": 35,
-      "files": 1
     }
   ]
 }
