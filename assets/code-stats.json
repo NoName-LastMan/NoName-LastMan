@@ -1,17 +1,17 @@
 {
-  "total_lines": 52369,
-  "files": 699,
+  "total_lines": 55462,
+  "files": 707,
   "repos": 14,
   "languages": [
     {
       "name": "JSX",
-      "lines": 23277,
+      "lines": 23403,
       "files": 159
     },
     {
       "name": "PHP",
-      "lines": 15542,
-      "files": 286
+      "lines": 17927,
+      "files": 288
     },
     {
       "name": "Java",
@@ -20,12 +20,17 @@
     },
     {
       "name": "JavaScript",
-      "lines": 2847,
+      "lines": 2841,
       "files": 50
     },
     {
+      "name": "Bourne Shell",
+      "lines": 1387,
+      "files": 10
+    },
+    {
       "name": "CSS",
-      "lines": 1284,
+      "lines": 1323,
       "files": 11
     },
     {
@@ -34,13 +39,8 @@
       "files": 30
     },
     {
-      "name": "Bourne Shell",
-      "lines": 844,
-      "files": 4
-    },
-    {
       "name": "HTML",
-      "lines": 753,
+      "lines": 756,
       "files": 9
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "name": "Dockerfile",
-      "lines": 45,
+      "lines": 48,
       "files": 3
     },
     {
