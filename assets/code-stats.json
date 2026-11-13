@@ -1,7 +1,7 @@
 {
-  "total_lines": 55462,
-  "files": 707,
-  "repos": 14,
+  "total_lines": 69331,
+  "files": 821,
+  "repos": 16,
   "languages": [
     {
       "name": "JSX",
@@ -14,23 +14,28 @@
       "files": 288
     },
     {
+      "name": "TypeScript",
+      "lines": 10671,
+      "files": 92
+    },
+    {
       "name": "Java",
-      "lines": 4620,
-      "files": 104
+      "lines": 7149,
+      "files": 126
     },
     {
       "name": "JavaScript",
-      "lines": 2841,
-      "files": 50
-    },
-    {
-      "name": "Bourne Shell",
-      "lines": 1387,
-      "files": 10
+      "lines": 3223,
+      "files": 52
     },
     {
       "name": "CSS",
-      "lines": 1323,
+      "lines": 1618,
+      "files": 13
+    },
+    {
+      "name": "Bourne Shell",
+      "lines": 1492,
       "files": 11
     },
     {
@@ -39,19 +44,14 @@
       "files": 30
     },
     {
+      "name": "DOS Batch",
+      "lines": 778,
+      "files": 7
+    },
+    {
       "name": "HTML",
       "lines": 756,
       "files": 9
-    },
-    {
-      "name": "DOS Batch",
-      "lines": 707,
-      "files": 6
-    },
-    {
-      "name": "TypeScript",
-      "lines": 316,
-      "files": 10
     },
     {
       "name": "Maven",
@@ -69,6 +69,16 @@
       "files": 2
     },
     {
+      "name": "Gradle",
+      "lines": 109,
+      "files": 2
+    },
+    {
+      "name": "Properties",
+      "lines": 66,
+      "files": 11
+    },
+    {
       "name": "PowerShell",
       "lines": 65,
       "files": 2
@@ -82,11 +92,6 @@
       "name": "Dockerfile",
       "lines": 48,
       "files": 3
-    },
-    {
-      "name": "Properties",
-      "lines": 43,
-      "files": 9
     },
     {
       "name": "INI",
