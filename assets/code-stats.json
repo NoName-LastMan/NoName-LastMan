@@ -1,7 +1,7 @@
 {
-  "total_lines": 71353,
-  "files": 857,
-  "repos": 17,
+  "total_lines": 73613,
+  "files": 909,
+  "repos": 20,
   "languages": [
     {
       "name": "JSX",
@@ -20,8 +20,8 @@
     },
     {
       "name": "Java",
-      "lines": 8899,
-      "files": 156
+      "lines": 10343,
+      "files": 190
     },
     {
       "name": "JavaScript",
@@ -29,14 +29,14 @@
       "files": 52
     },
     {
+      "name": "Bourne Shell",
+      "lines": 1900,
+      "files": 15
+    },
+    {
       "name": "CSS",
       "lines": 1618,
       "files": 13
-    },
-    {
-      "name": "Bourne Shell",
-      "lines": 1594,
-      "files": 12
     },
     {
       "name": "Blade",
@@ -45,13 +45,18 @@
     },
     {
       "name": "DOS Batch",
-      "lines": 848,
-      "files": 8
+      "lines": 1058,
+      "files": 11
     },
     {
       "name": "HTML",
       "lines": 756,
       "files": 9
+    },
+    {
+      "name": "Gradle",
+      "lines": 413,
+      "files": 10
     },
     {
       "name": "Maven",
@@ -64,19 +69,14 @@
       "files": 4
     },
     {
-      "name": "Gradle",
-      "lines": 185,
-      "files": 4
+      "name": "Properties",
+      "lines": 162,
+      "files": 19
     },
     {
       "name": "SQL",
       "lines": 124,
       "files": 2
-    },
-    {
-      "name": "Properties",
-      "lines": 90,
-      "files": 13
     },
     {
       "name": "PowerShell",
