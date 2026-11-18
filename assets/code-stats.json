@@ -1,8 +1,13 @@
 {
-  "total_lines": 73613,
-  "files": 909,
+  "total_lines": 94516,
+  "files": 929,
   "repos": 20,
   "languages": [
+    {
+      "name": "TypeScript",
+      "lines": 29955,
+      "files": 95
+    },
     {
       "name": "JSX",
       "lines": 23403,
@@ -14,19 +19,14 @@
       "files": 288
     },
     {
-      "name": "TypeScript",
-      "lines": 10671,
-      "files": 92
-    },
-    {
       "name": "Java",
       "lines": 10343,
       "files": 190
     },
     {
       "name": "JavaScript",
-      "lines": 3223,
-      "files": 52
+      "lines": 2855,
+      "files": 51
     },
     {
       "name": "Bourne Shell",
@@ -35,8 +35,13 @@
     },
     {
       "name": "CSS",
-      "lines": 1618,
-      "files": 13
+      "lines": 1713,
+      "files": 14
+    },
+    {
+      "name": "Go",
+      "lines": 1639,
+      "files": 16
     },
     {
       "name": "Blade",
@@ -67,6 +72,11 @@
       "name": "Python",
       "lines": 290,
       "files": 4
+    },
+    {
+      "name": "Prisma Schema",
+      "lines": 253,
+      "files": 1
     },
     {
       "name": "Properties",
