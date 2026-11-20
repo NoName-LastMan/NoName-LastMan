@@ -1,13 +1,8 @@
 {
-  "total_lines": 94516,
-  "files": 929,
+  "total_lines": 83199,
+  "files": 938,
   "repos": 20,
   "languages": [
-    {
-      "name": "TypeScript",
-      "lines": 29955,
-      "files": 95
-    },
     {
       "name": "JSX",
       "lines": 23403,
@@ -17,6 +12,11 @@
       "name": "PHP",
       "lines": 17927,
       "files": 288
+    },
+    {
+      "name": "TypeScript",
+      "lines": 17369,
+      "files": 98
     },
     {
       "name": "Java",
@@ -29,19 +29,19 @@
       "files": 51
     },
     {
+      "name": "Go",
+      "lines": 2743,
+      "files": 22
+    },
+    {
       "name": "Bourne Shell",
       "lines": 1900,
       "files": 15
     },
     {
       "name": "CSS",
-      "lines": 1713,
+      "lines": 1863,
       "files": 14
-    },
-    {
-      "name": "Go",
-      "lines": 1639,
-      "files": 16
     },
     {
       "name": "Blade",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Prisma Schema",
-      "lines": 253,
+      "lines": 268,
       "files": 1
     },
     {
