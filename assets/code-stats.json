@@ -1,8 +1,13 @@
 {
-  "total_lines": 83199,
-  "files": 938,
+  "total_lines": 90562,
+  "files": 957,
   "repos": 20,
   "languages": [
+    {
+      "name": "TypeScript",
+      "lines": 24683,
+      "files": 117
+    },
     {
       "name": "JSX",
       "lines": 23403,
@@ -12,11 +17,6 @@
       "name": "PHP",
       "lines": 17927,
       "files": 288
-    },
-    {
-      "name": "TypeScript",
-      "lines": 17369,
-      "files": 98
     },
     {
       "name": "Java",
@@ -34,14 +34,14 @@
       "files": 22
     },
     {
+      "name": "CSS",
+      "lines": 1912,
+      "files": 14
+    },
+    {
       "name": "Bourne Shell",
       "lines": 1900,
       "files": 15
-    },
-    {
-      "name": "CSS",
-      "lines": 1863,
-      "files": 14
     },
     {
       "name": "Blade",
