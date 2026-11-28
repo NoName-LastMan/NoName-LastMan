@@ -1,22 +1,22 @@
 {
-  "total_lines": 90562,
-  "files": 957,
+  "total_lines": 93500,
+  "files": 904,
   "repos": 20,
   "languages": [
+    {
+      "name": "JSX",
+      "lines": 24828,
+      "files": 161
+    },
     {
       "name": "TypeScript",
       "lines": 24683,
       "files": 117
     },
     {
-      "name": "JSX",
-      "lines": 23403,
-      "files": 159
-    },
-    {
       "name": "PHP",
-      "lines": 17927,
-      "files": 288
+      "lines": 14459,
+      "files": 198
     },
     {
       "name": "Java",
@@ -24,9 +24,14 @@
       "files": 190
     },
     {
+      "name": "Rust",
+      "lines": 4808,
+      "files": 37
+    },
+    {
       "name": "JavaScript",
-      "lines": 2855,
-      "files": 51
+      "lines": 2861,
+      "files": 49
     },
     {
       "name": "Go",
@@ -34,24 +39,24 @@
       "files": 22
     },
     {
-      "name": "CSS",
-      "lines": 1912,
-      "files": 14
-    },
-    {
       "name": "Bourne Shell",
-      "lines": 1900,
-      "files": 15
+      "lines": 2040,
+      "files": 17
     },
     {
-      "name": "Blade",
-      "lines": 1214,
-      "files": 30
+      "name": "CSS",
+      "lines": 1975,
+      "files": 13
     },
     {
       "name": "DOS Batch",
       "lines": 1058,
       "files": 11
+    },
+    {
+      "name": "Blade",
+      "lines": 1005,
+      "files": 29
     },
     {
       "name": "HTML",
@@ -62,6 +67,11 @@
       "name": "Gradle",
       "lines": 413,
       "files": 10
+    },
+    {
+      "name": "SQL",
+      "lines": 311,
+      "files": 3
     },
     {
       "name": "Maven",
@@ -84,11 +94,6 @@
       "files": 19
     },
     {
-      "name": "SQL",
-      "lines": 124,
-      "files": 2
-    },
-    {
       "name": "PowerShell",
       "lines": 65,
       "files": 2
@@ -105,8 +110,8 @@
     },
     {
       "name": "INI",
-      "lines": 42,
-      "files": 3
+      "lines": 28,
+      "files": 2
     }
   ]
 }
